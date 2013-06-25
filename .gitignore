@@ -13,4 +13,3 @@ htdocs
 *.py[co]
 test/*.repo
 test/neutralize.map
-test/longrev.gitconvert/

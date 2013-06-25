@@ -20,5 +20,4 @@ for i in range(16):
     co.write("README", branchname)
     co.commit("Updated for " + branchname)
 
-repo.convert("longrev", "longrev.gitconvert", '--convert-ignores')
 repo.cleanup()
